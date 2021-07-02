@@ -1,0 +1,8 @@
+[06-May-2021 01:23:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/ktlcl/inventario.ktl.cl/admin/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ktlcl/inventario.ktl.cl/admin/routes/console.php on line 17
+[06-May-2021 01:23:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/ktlcl/inventario.ktl.cl/admin/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ktlcl/inventario.ktl.cl/admin/routes/console.php on line 17
